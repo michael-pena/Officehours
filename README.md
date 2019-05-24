@@ -10,8 +10,8 @@ This program uses semaphores and mutex locks to create a multithreaded applicati
 
 <h3>To Run</h3>
 
-To compile:
+To compile: <br>
 <code>gcc officehours.c -o office -lpthread</code>
 
-To run:
+To run: <br>
 <code>./office sample.txt</code>
